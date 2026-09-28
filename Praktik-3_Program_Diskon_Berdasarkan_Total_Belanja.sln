@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praktik-3_Program_Diskon_Berdasarkan_Total_Belanja", "Praktik-3_Program_Diskon_Berdasarkan_Total_Belanja.csproj", "{90EC8935-2105-4612-9379-80D9860379D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90EC8935-2105-4612-9379-80D9860379D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90EC8935-2105-4612-9379-80D9860379D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90EC8935-2105-4612-9379-80D9860379D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90EC8935-2105-4612-9379-80D9860379D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5855B60-6F2E-43C0-9E92-72F9EC8F89C8}
+	EndGlobalSection
+EndGlobal
