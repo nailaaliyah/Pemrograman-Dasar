@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoh3_ProgramKonversiSuhu", "Contoh3_ProgramKonversiSuhu.csproj", "{58554799-8DB1-46EE-911A-CA70F3F252FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58554799-8DB1-46EE-911A-CA70F3F252FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58554799-8DB1-46EE-911A-CA70F3F252FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58554799-8DB1-46EE-911A-CA70F3F252FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58554799-8DB1-46EE-911A-CA70F3F252FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96CF9E4A-530B-43A6-A441-89E629F48B58}
+	EndGlobalSection
+EndGlobal
